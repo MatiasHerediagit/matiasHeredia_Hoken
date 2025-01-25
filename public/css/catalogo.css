@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    padding: 5% 20px;
+    max-width: 1200px;
+    text-align: center;
+    font-family: "poppins";
+    margin: 0 auto;
+}
+.item img{
+    max-width: 100%;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 10px 10px 0 0;
+    transition: all 0.5s;
+}
+.container-items{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 20px;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.item{
+    border-radius: 20px;
+
+}
+.item:hover{
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.30);
+}
+.info-producto{
+    padding: 15px 30px;
+    line-height: 2;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.item:hover img{
+    transform: scale(1.2);
+}
+.item figure{
+    overflow: hidden;
+}
+.precio{
+    font-size: 10px;
+    font-weight: 900;
+}
+.info-producto button{
+    border: none;
+    background: none;
+    background-color: black;
+    color: #29fd53 ;
+    padding: 15px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight:900 ;
+    font-size: medium;
+}
+button{
+    transition: background-color 0.5s ease; 
+    font-family: "Roboto";
+    letter-spacing: 2px;
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+}
+button:hover{
+    background-color: #353535;
+    transform: scale(1.1);
+}
