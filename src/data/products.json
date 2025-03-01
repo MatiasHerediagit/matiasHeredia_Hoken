@@ -1,0 +1,165 @@
+[
+  {
+    "id": "001",
+    "nombre": "alemania-titular-25",
+    "descripcion": "Camiseta 2025 Alemania titular Adidas",
+    "imagen": "public/images/alemania-2024-titular.jpg",
+    "categoria": "Selecciones",
+    "colores": "Blanco,negro,amarillo,rojo",
+    "precio": "45000"
+  },
+  {
+    "id": "002",
+    "nombre": "argentina-25-suplente",
+    "descripcion": "Camiseta 2025 Argentina suplente Adidas",
+    "imagen": "public/images/argentina-2024-suplente.jpg",
+    "categoria": "Selecciones",
+    "colores": "Azul,celeste",
+    "precio": "50000"
+  },
+  {
+    "id": "003",
+    "nombre": "argentina-25-titular",
+    "descripcion": "Camiseta 2025 Argentina titular Adidas",
+    "imagen": "public/images/argentina-2024-titular.jpg",
+    "categoria": "Selecciones",
+    "colores": "blanco,celeste,dorado",
+    "precio": "60000"
+  },
+  {
+    "id": "004",
+    "nombre": "belgica-25-titular",
+    "descripcion": "Camiseta 2025 Belgica titular Adidas",
+    "imagen": "public/images/belgica-2024-titular.jpg",
+    "categoria": "Selecciones",
+    "colores": "Rojo,negro,amarillo",
+    "precio": "40000"
+  },
+  {
+    "id": "005",
+    "nombre": "croacia-25-titular",
+    "descripcion": "Camiseta Croacia 2025 titular Nike",
+    "imagen": "public/images/croacia-2024-titular.jpg",
+    "categoria": "Selecciones",
+    "colores": "Rojo,blanco,azul",
+    "precio": "35000"
+  },
+  {
+    "id": "006",
+    "nombre": "argentina-22-arquero",
+    "descripcion": "Camiseta 2022 Argentina arquero Adidas",
+    "imagen": "public/images/argentina-2022-arquero.jpg",
+    "categoria": "Selecciones",
+    "colores": "Verde",
+    "precio": "60000"
+  },
+  {
+    "id": "007",
+    "nombre": "argentina-25-arquero",
+    "descripcion": "Camiseta 2025 Argentina arquero Adidas",
+    "imagen": "public/images/argentina-2024-arquero.jpg",
+    "categoria": "Selecciones",
+    "colores": "Negro,rojo,verde",
+    "precio": "60000"
+  },
+  {
+    "id": "008",
+    "nombre": "japon-25-titular",
+    "descripcion": "Camiseta 2025 Japon titular Adidas",
+    "imagen": "public/images/japon-2024-titular.jpg",
+    "categoria": "Selecciones",
+    "colores": "azul,blanco,rojo",
+    "precio": "35000"
+  },
+  {
+    "id": "009",
+    "nombre": "italia-25-titular",
+    "descripcion": "Camiseta 2025 Italia  titular Adidas",
+    "imagen": "public/images/italia-2024-titular.jpg",
+    "categoria": "Selecciones",
+    "colores": "azul,blanco,verde,rojo",
+    "precio": "40000"
+  },
+  {
+    "id": "010",
+    "nombre": "boca-25-titular",
+    "descripcion": "Camiseta 2025 Boca Juniors titular Adidas",
+    "imagen": "public/images/boca-juniors-2025-titular.jpg",
+    "categoria": "Equipos",
+    "colores": "azul,amarillo",
+    "precio": "60000"
+  },
+  {
+    "id": "011",
+    "nombre": "boca-25-suplente",
+    "descripcion": "Camiseta 2025 Boca Juniors suplente Adidas",
+    "imagen": "public/images/boca-juniors-2025-suplente.jpg",
+    "categoria": "Equipos",
+    "colores": "blanco,azul,amarillo",
+    "precio": "60000"
+  },
+  {
+    "id": "012",
+    "nombre": "river-25-titular",
+    "descripcion": "Camiseta 2025 River Plate titular Adidas",
+    "imagen": "public/images/river-plate-2025-titular.jpg",
+    "categoria": "Equipos",
+    "colores": "blanco,rojo,negro",
+    "precio": "55000"
+  },
+  {
+    "id": "013",
+    "nombre": "river-25-suplente",
+    "descripcion": "Camiseta 2025 River Plate suplente Adidas",
+    "imagen": "public/images/river-plate-2025-suplente.jpg",
+    "categoria": "Equipos",
+    "colores": "rojo,blanco",
+    "precio": "55000"
+  },
+  {
+    "id": "014",
+    "nombre": "newells-25-titular",
+    "descripcion": "Camiseta 2025 Newells titular Aifit",
+    "imagen": "public/images/newells-2025-titular.jpg",
+    "categoria": "Equipos",
+    "colores": "rojo,negro,blanco",
+    "precio": "35000"
+  },
+  {
+    "id": "015",
+    "nombre": "rosario-central-25-titular",
+    "descripcion": "Camiseta 2025 Rosario Central titular Le Coq Sportif",
+    "imagen": "public/images/rosario-central-2025-titular.jpg",
+    "categoria": "Equipos",
+    "colores": "amarillo,azul",
+    "precio": "35000"
+  },
+  {
+    "id": "016",
+    "nombre": "velez-25-titular",
+    "descripcion": "Camiseta 2025 Velez Sarsfield titular Diadora",
+    "imagen": "public/images/velez-sarsfield-2025-titular.jpg",
+    "categoria": "Equipos",
+    "colores": "blanco,azul,verde,rojo",
+    "precio": "35000"
+  },
+  {
+    "id": "017",
+    "nombre": "estudiantes-25-titular",
+    "descripcion": "Camiseta 2025 Estudiantes titular Ruge",
+    "imagen": "public/images/estudiantes-2025-titular.jpg",
+    "categoria": "Equipos",
+    "colores": "rojo,negro,blanco",
+    "precio": "35000"
+  },
+  {
+    "id": "018",
+    "nombre": "san-lorenzo-25-titular",
+    "descripcion": "Camiseta 2025 San Lorenzo titular Atomik",
+    "imagen": "public/images/san-lorenzo-2025-titular.jpg",
+    "categoria": "Equipos",
+    "colores": "rojo,azul,blanco",
+    "precio": "35000"
+  }
+  
+]

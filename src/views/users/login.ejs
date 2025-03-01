@@ -8,14 +8,17 @@
     <title>Iniciar Sesión Hoken</title>
 </head>
 <body>
-    <div class="container">
-        <a href="/" class="home-icon">
-            <i class="fa fa-home"></i>
-        </a>
-        <div class="form-content">
-            <h1 id="titulo">Iniciar Sesión</h1>
-            <form action="">
-                <div class="input-group">
+    <%- include('../partials/header') %> 
+    <main>
+
+        <div class="container">
+            <a href="/" class="home-icon">
+                <i class="fa fa-home"></i>
+            </a>
+            <div class="form-content">
+                <h1 id="titulo">Iniciar Sesión</h1>
+                <form action="">
+                    <div class="input-group">
                     <div class="input-entrada">
                         <i class="fa-solid fa-envelope"></i>
                         <input type="email" placeholder="Correo electrónico" required>
@@ -31,6 +34,7 @@
             </form>
         </div>
     </div>
+</main>
     <%- include('../partials/footer') %> 
 </body>
 </html>

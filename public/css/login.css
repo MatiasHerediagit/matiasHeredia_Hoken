@@ -8,8 +8,6 @@
 html {
     scroll-behavior: smooth;
 }
-
-
 :root {
     --background-color: #222327;
     --text-color: #ffffff;
@@ -85,6 +83,7 @@ input {
     outline: none;
     padding: 18px 15px;
     color: var(--text-color);
+   font-family:  "poppins", serif;
 }
 
 input::placeholder {

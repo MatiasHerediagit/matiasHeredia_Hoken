@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "firstName": "Matias",
+      "lastName": "Heredia",
+      "email": "malejandroheredia@gmail.com",
+      "password":"matias123" ,
+      "category": "admin" ,
+      "image":"public/images/primer-usuario.jpg" 
+    },
+    {
+      "id": 2,
+      "firstName":"Cristina" ,
+      "lastName": "Altamirano",
+      "email": "cristina@gmai.com",
+      "password": "cristina123",
+      "category": "user",
+      "image": "public/images/segundo-usuario.jpg"
+    },
+    {
+      "id": 3,
+      "firstName": "Norma",
+      "lastName": "Altamirano",
+      "email": "norma@gmail.com",
+      "password":"norma123" ,
+      "category": "user",
+      "image": "public/images/tercer-usuario.jpg"
+    },
+    {
+      "id": 4,
+      "firstName": "Guillermo",
+      "lastName":"Carrizo",
+      "email":"guillermo@gmail.com" ,
+      "password": "carrizo123",
+      "category": "user",
+      "image": "public/images/cuarto-usuario.jpg"
+    }
+  ]
+  
